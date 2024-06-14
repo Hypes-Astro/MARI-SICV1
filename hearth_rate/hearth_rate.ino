@@ -1,9 +1,9 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "";
-const char* password = "";
-const char* serverName = "http://ip-address-mu/post_data";
+const char* ssid = "Hanania";
+const char* password = "handarumakmur";
+const char* serverName = "http://192.168.0.111:5000/post_data";
 
 #define LP 12
 #define LM 13
